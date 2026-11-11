@@ -1,37 +1,11 @@
 {
   "meta": {
-    "last_updated": "2026-11-11T23:21:29.541717+00:00",
+    "last_updated": "2026-11-11T23:22:53.548982+00:00",
     "source_count": 10,
-    "article_count": 137,
+    "article_count": 136,
     "note": "Stories are sourced from Google News RSS search results. Automated tags and clinical mappings are indicative and should be reviewed before strategic use."
   },
   "articles": [
-    {
-      "id": "ed6e41532f8323de04ec0852a741eab2c88c01c6",
-      "title": "Freightos Extends AI to Simplify Freight Forwarding Process - Supply Chain Digital Magazine",
-      "summary": "Freightos Extends AI to Simplify Freight Forwarding Process &nbsp;&nbsp; Supply Chain Digital Magazine",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelRYMkRETkx3cU9GUmk5RzRvM3dqbTREWEJKekJvQkduS19mWVlLVUNZZVMxTGRTVWdGNWU1Um4zM2lYelF2MUlxMDU2SnY2MWpjNXVPTzBSNXRxTFZpMldMdjN1QUJOTnUyVE5IZGctSjl1Q3g4OV9wRWljaElyTDI3MEc1RVQzallRVWtxVjdnMHZlUjNpRTJvdXZJRFlx?oc=5",
-      "source": "Supply Chain Digital Magazine",
-      "company": "Supply Chain Digital Magazine",
-      "published": "2026-11-11T18:23:06+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Artificial intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
     {
       "id": "0f567765ca1e8bafb7cdca8e24daae150d97f415",
       "title": "Viavi Solutions: Agentic AI Still Needs Glasses (Rating Upgrade) (NASDAQ:VIAV) - Seeking Alpha",
@@ -194,33 +168,6 @@
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
     },
     {
-      "id": "286e1faaa8822c8269e5fb3fe4836b581e4c13d6",
-      "title": "Agentic AI and National Security: The New Architecture of Industrial Sovereignty -ADNOC (Abu Dhabi National Oil Company)–OpenAI–G42 partnership - https://debuglies.com",
-      "summary": "Agentic AI and National Security: The New Architecture of Industrial Sovereignty -ADNOC (Abu Dhabi National Oil Company)–OpenAI–G42 partnership &nbsp;&nbsp; https://debuglies.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUzZjUUVrOWZyUmYyMEpoN1hMZUw0M0dSQzZkQTRJbldLWDlDMzlUZXBkMUFWOEgzTWRrVVZmYm0wejNnc3U2aXpybk1KOGdrQkR1WDMxRkdXb2YxOU56a1lnWF9lQmVsd3BXMDNpUjBDc2lkN1QySU10QTlzWjBKQVg1alNiaFRTQVdhYUEzTXZqQmRkRjhPUVVLVlZkNnFuZDdVcEVHVW1pYi1LcnczM0pnc1VsbmJsdmQ5ZVNjMVhScVFIeVNiSW9LQWQ4S2dCMldzd0RjMjVOMkNvckRKRTRvRGNZX3J0SDJxb183YWl6Q3VGQnZEaElDTlFzVkQ0NTRj?oc=5",
-      "source": "https://debuglies.com",
-      "company": "https://debuglies.com",
-      "published": "2026-11-10T15:00:34+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Agentic AI",
-        "Artificial intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
       "id": "56997502d9b5ba5525243180c4554673abc5e8ef",
       "title": "Adobe Adds CX Enterprise Coworker to GenStudio - CMSWire",
       "summary": "Adobe Adds CX Enterprise Coworker to GenStudio &nbsp;&nbsp; CMSWire",
@@ -307,33 +254,6 @@
       "source": "Adobe Newsroom",
       "company": "Adobe Newsroom",
       "published": "2026-11-10T10:05:48+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Agentic AI",
-        "Artificial intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
-      "id": "9e2e59568f0bacb561e17c5511134fea1e279f9a",
-      "title": "Agentic AI Could Shrink Enterprise Process Redesign Cycles | Oracle - DQ",
-      "summary": "Agentic AI Could Shrink Enterprise Process Redesign Cycles | Oracle &nbsp;&nbsp; DQ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkJ1bzk2TmNSc2ZpVGNBcXNwdnBVamp6QjlzcFJEb040M21UUmh3dFBHSHZjMTgzZGlBdm1SYi1LUktEVUxQNjNfdFZraXY5emZGQ01nUmY3anFtQzBFU05ZNWN1Y2hTU2NsaHJDdDRwLXBMYkhGQ1gyczFfbkFvME1Yc3Z6SjBiOEpSTXJ3Rjk2YzAxd1BZcG9HRGRNd3J4VzFIOEtn0gGmAUFVX3lxTE1SQnVvOTZOY1JzZmlUY0Fxc3B2cFVqanpCOXNwUkRvTjQzbVRSaHd0UEdIdmMxODNkaUF2bVJiLUtSS0RVTFA2M190Vmtpdjl6ZkZDTWdSZjdqcW1DMEVTTlk1Y3VjaFNTY2xockN0NHAtcExiSEZDWDJzMV9uQW8wTVhzdnpKMGI4SlJNcndGOTZjMDF3UFlwb0dEZE13cnhXMUg4S2c?oc=5",
-      "source": "DQ",
-      "company": "Oracle",
-      "published": "2026-11-10T07:03:32+00:00",
       "value_streams": [
         "PLAN"
       ],
@@ -2791,6 +2711,34 @@
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
     },
     {
+      "id": "db1d74c931c39d38434c2ba9395d5daf72127ef2",
+      "title": "From Pilot Purgatory to Autonomous Supply Chains: The Path to Scaling Agentic AI - Darden Report",
+      "summary": "From Pilot Purgatory to Autonomous Supply Chains: The Path to Scaling Agentic AI &nbsp;&nbsp; Darden Report",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zdkR0SEp0amozbzRMN1NKTGxzRnc0VFE2cmIzZnlLcjlnOGk4ZXd1cVpuano2eXNPYlhsalRuaVl5MGUwWElvdjZVc3ZHR3ljNHgtUXB5SmNSeHB4STY4Z3pmVjBUZHZ5dVRIYg?oc=5",
+      "source": "Darden Report",
+      "company": "Darden Report",
+      "published": "2026-04-03T07:00:00+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Agentic AI",
+        "Artificial intelligence",
+        "Automation and orchestration"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "relevance": "Medium",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
       "id": "579f63b4c8b20da790e0afe4ce903751802217d3",
       "title": "Resilient by design: The agentic supply chain - Deloitte",
       "summary": "Resilient by design: The agentic supply chain &nbsp;&nbsp; Deloitte",
@@ -3400,6 +3348,33 @@
         "Inventory and expiry optimisation",
         "Supplier and material risk prediction",
         "Sourcing and capacity optimisation"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "4624bdab9bfa3e2cfb87b184ee7a9f61e88d9a68",
+      "title": "Orchestrating Supply Chain Ecosystems in the Age of Agentic AI - IDC | Trusted Tech Intelligence",
+      "summary": "Orchestrating Supply Chain Ecosystems in the Age of Agentic AI &nbsp;&nbsp; IDC | Trusted Tech Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUphTXREa2c5NWV3U2tIOG1sS3FBX1B2NkdlSHBkMEdpOUJYVjlNcGV0LU9NNFZNUXloRWVQeDdoaG13TEFNeTREZjZIOWNKWkRZajNrQjFKX2VIRUlOb2hXdy10NS1lLV9udVJHXzhDVVNtLVVneWkwS3I1a1JtQnRCS3ZkcktsZE8tVHdUbGE0QkpXOHoza1JaNFhacTBDUkxFckZkaw?oc=5",
+      "source": "IDC | Trusted Tech Intelligence",
+      "company": "IDC | Trusted Tech Intelligence",
+      "published": "2025-12-12T08:00:00+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Agentic AI",
+        "Artificial intelligence"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
       ],
       "relevance": "Emerging",
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."

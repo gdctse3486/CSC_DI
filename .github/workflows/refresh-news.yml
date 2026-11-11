@@ -1,1 +1,38 @@
 
+name: Refresh clinical supply chain intelligence
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ingest industry stories
+        run: python scripts/ingest.py
+
+      - name: Commit refreshed dataset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh industry intelligence feed"
+            git push
+          else
+            echo "No dataset changes to commit."
+          fi
+

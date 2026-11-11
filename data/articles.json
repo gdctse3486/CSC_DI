@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "last_updated": null,
+    "source_count": 0,
+    "note": "No articles have been ingested yet. Run the GitHub Actions workflow to populate this file."
+  },
+  "articles": []
+}

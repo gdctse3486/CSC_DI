@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101b2b">
+  <meta name="description" content="Clinical Supply Chain Decision Intelligence Observatory — industry technology, use cases and strategic opportunities.">
+  <title>Clinical Supply Chain | Decision Intelligence Observatory</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Observatory home">
+      <span class="brand-mark">DI</span>
+      <span><strong>CLINICAL SUPPLY CHAIN</strong><small>DECISION INTELLIGENCE OBSERVATORY</small></span>
+    </a>
+    <div class="top-meta"><span class="live-dot"></span><span id="lastUpdated">Waiting for first data refresh</span><button id="refreshBtn" class="quiet-button" title="Reload latest published data">↻ Refresh</button></div>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">INDUSTRY INTELLIGENCE · TECHNOLOGY RADAR · USE CASE DISCOVERY</p>
+        <h1>From supply chain visibility<br><em>to intelligent decisions.</em></h1>
+        <p class="hero-lede">A continuously refreshed view of technologies, deployments and ideas that could transform the supply of clinical materials to studies — organised around PLAN, SOURCE, MAKE and DELIVER.</p>
+        <div class="hero-pills"><span>PLAN</span><span>SOURCE</span><span>MAKE</span><span>DELIVER</span></div>
+      </div>
+      <div class="hero-orbit" aria-hidden="true">
+        <div class="orbit orbit-a"></div><div class="orbit orbit-b"></div>
+        <div class="orbit-core"><b>DI</b><small>DECIDE<br>INTELLIGENTLY</small></div>
+        <span class="orbit-node node-plan">PLAN</span><span class="orbit-node node-source">SOURCE</span>
+        <span class="orbit-node node-make">MAKE</span><span class="orbit-node node-deliver">DELIVER</span>
+      </div>
+    </section>
+
+    <section class="stat-grid" aria-label="Observatory metrics">
+      <article class="stat-card"><span class="stat-label">STORIES TRACKED</span><strong id="storyCount">—</strong><small>Deduplicated industry stories</small></article>
+      <article class="stat-card"><span class="stat-label">COMPANIES MENTIONED</span><strong id="companyCount">—</strong><small>Across the monitored landscape</small></article>
+      <article class="stat-card"><span class="stat-label">USE CASE LINKS</span><strong id="useCaseCount">—</strong><small>Clinical supply applications mapped</small></article>
+      <article class="stat-card"><span class="stat-label">LATEST INGESTION</span><strong id="freshness">—</strong><small>Most recent article date</small></article>
+    </section>
+
+    <section class="section-head">
+      <div><p class="eyebrow">THE END-TO-END VALUE STREAM</p><h2>Explore the decision landscape</h2></div>
+      <p class="section-note">Select a stream to focus the news feed and its related clinical supply chain opportunities.</p>
+    </section>
+    <section class="stream-grid" id="streamGrid">
+      <button class="stream-card plan active" data-stream="PLAN"><span class="stream-index">01 / ANTICIPATE</span><strong>PLAN</strong><span>Demand · inventory · scenarios</span><i>↗</i></button>
+      <button class="stream-card source" data-stream="SOURCE"><span class="stream-index">02 / SECURE</span><strong>SOURCE</strong><span>Suppliers · materials · capacity</span><i>↗</i></button>
+      <button class="stream-card make" data-stream="MAKE"><span class="stream-index">03 / PRODUCE</span><strong>MAKE</strong><span>Manufacture · quality · release</span><i>↗</i></button>
+      <button class="stream-card deliver" data-stream="DELIVER"><span class="stream-index">04 / FULFIL</span><strong>DELIVER</strong><span>Depots · shipments · site supply</span><i>↗</i></button>
+    </section>
+
+    <section class="content-layout">
+      <div class="main-column">
+        <div class="section-head compact"><div><p class="eyebrow">SIGNALS FROM THE INDUSTRY</p><h2>News intelligence</h2></div><span id="resultCount" class="result-count">0 stories</span></div>
+        <div class="filters">
+          <label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="Search stories, companies, technologies…"></label>
+          <select id="streamFilter" aria-label="Filter by value stream"><option value="">All value streams</option><option>PLAN</option><option>SOURCE</option><option>MAKE</option><option>DELIVER</option></select>
+          <select id="techFilter" aria-label="Filter by technology"><option value="">All technologies</option></select>
+          <select id="relevanceFilter" aria-label="Filter by relevance"><option value="">All relevance levels</option><option>High</option><option>Medium</option><option>Emerging</option></select>
+        </div>
+        <div id="storyFeed" class="story-feed">
+          <div class="empty-state"><div class="empty-icon">↗</div><h3>Industry intelligence is being prepared</h3><p>Once the GitHub Actions ingestion workflow runs, collected stories will appear here. You can also run it manually from the Actions tab in your repository.</p></div>
+        </div>
+        <div class="load-row"><button id="loadMore" class="secondary-button" hidden>Load more stories</button></div>
+      </div>
+
+      <aside class="side-column">
+        <section class="panel">
+          <div class="panel-heading"><div><p class="eyebrow">STRATEGIC TRANSLATION</p><h3>Clinical use case radar</h3></div><span class="panel-icon">⌁</span></div>
+          <p class="panel-intro">The use cases below connect external technology signals to the operational decisions needed to supply clinical studies.</p>
+          <div id="useCaseRadar" class="usecase-list"></div>
+        </section>
+        <section class="panel opportunity-panel">
+          <p class="eyebrow">LEADERSHIP OPPORTUNITY</p><h3>Where could AZ differentiate?</h3>
+          <p>Build a connected decision layer that senses changing study demand, predicts supply constraints, recommends interventions and coordinates execution across the value stream.</p>
+          <div class="maturity-steps"><span>Sense</span><b>→</b><span>Predict</span><b>→</b><span>Recommend</span><b>→</b><span>Execute</span><b>→</b><span>Learn</span></div>
+          <small>Strategic hypothesis for exploration — not a claim about current internal capability.</small>
+        </section>
+        <section class="panel">
+          <div class="panel-heading"><div><p class="eyebrow">TECHNOLOGY RADAR</p><h3>Signals by theme</h3></div></div>
+          <div id="technologyRadar" class="tech-radar"><p class="muted">Technology themes will populate as stories are ingested.</p></div>
+        </section>
+      </aside>
+    </section>
+
+    <section class="section-head benchmark-head"><div><p class="eyebrow">FROM SIGNAL TO STRATEGY</p><h2>How to read the evidence</h2></div><p class="section-note">Separate market noise from proven operational capability. Every story retains its source and evidence status.</p></section>
+    <section class="maturity-grid">
+      <article><span>01</span><h3>Descriptive</h3><p>Understand what has happened across studies, materials and operations.</p></article>
+      <article><span>02</span><h3>Predictive</h3><p>Anticipate demand changes, delays, shortages and quality or capacity risks.</p></article>
+      <article><span>03</span><h3>Prescriptive</h3><p>Recommend the best response across inventory, suppliers, manufacturing and distribution.</p></article>
+      <article><span>04</span><h3>Orchestrated</h3><p>Coordinate decisions across teams, systems and value streams.</p></article>
+      <article><span>05</span><h3>Autonomous</h3><p>Execute bounded, governed actions with appropriate human oversight.</p></article>
+    </section>
+    <footer><div><strong>DECISION INTELLIGENCE OBSERVATORY</strong><span>Independent industry signals translated into clinical supply chain opportunities.</span></div><span>Evidence-led · Source-linked · Continuously refreshed</span></footer>
+  </main>
+
+  <dialog id="storyDialog" class="story-dialog">
+    <button class="dialog-close" id="dialogClose" aria-label="Close">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+  <script src="app.js"></script>
+</body>
+</html>

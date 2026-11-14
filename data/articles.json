@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-11-13T13:08:31.783397+00:00",
+    "last_updated": "2026-11-14T12:12:21.110258+00:00",
     "source_count": 10,
-    "article_count": 136,
+    "article_count": 135,
     "note": "Stories are sourced from Google News RSS search results. Automated tags and clinical mappings are indicative and should be reviewed before strategic use."
   },
   "articles": [
@@ -82,33 +82,6 @@
       "use_cases": [
         "Manufacturing and release orchestration",
         "Predictive batch and quality intelligence"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
-      "id": "3a3dbf0e16c2cbcd657b94051fe12e62b0264e3d",
-      "title": "NIST Draft Maps Security Threats Facing Agentic AI Systems - CDO Magazine",
-      "summary": "NIST Draft Maps Security Threats Facing Agentic AI Systems &nbsp;&nbsp; CDO Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHRqRGVzN25CaE4yYk5lSE00aks3OFVtX3B5cG5DNmRyWEtQOVhXY1pLRkZCVm5kVTljdmVvSkM4NTI0VVJLamxFbVJHdU9WbTloOVBwMlRGVEdJanFqUEtwTTJkQW4zT0trdmxFQVZZYkJCYjJSU2I4MWFOQlc5dXZYM0NPNkhxc1RYVXBpWHEwNTgwYTZR?oc=5",
-      "source": "CDO Magazine",
-      "company": "CDO Magazine",
-      "published": "2026-11-12T06:20:00+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Agentic AI",
-        "Artificial intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
       ],
       "relevance": "Emerging",
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
@@ -420,6 +393,32 @@
       "technologies": [
         "Agentic AI",
         "Artificial intelligence"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "9f341c1e4a8dae52dd21513a5046cdbb9ec0bd7f",
+      "title": "Why consumer businesses must rethink inventory management before the festive rush - MyJoyOnline",
+      "summary": "Why consumer businesses must rethink inventory management before the festive rush &nbsp;&nbsp; MyJoyOnline",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0VIel82YlVHYlNHMG8xeERwa082WHB5c29rVFQ3dHpqWkVKNFEzRVZEdnQyMFJPMVFwTlFMYzlyMTJ0YUt1NGhGdU9qOEVaYllpek9weWs1YW80LXI2Qk1paTZGN0k1Z1BTbVVSc3FsZFV0NHJDSTFQM2pPdXZHMmpVNWhIV2Q1S3pJNy04Q0xUZTNJd3I5SXpFbmhYMHJLVWhoNV9lTzRJRDZlRUJN?oc=5",
+      "source": "MyJoyOnline",
+      "company": "MyJoyOnline",
+      "published": "2026-11-08T21:44:18+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Supply chain technology"
       ],
       "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
       "decision_opportunities": [
@@ -1570,6 +1569,32 @@
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
     },
     {
+      "id": "d2855e02d23e8eda5ee9fe5a856a61d9c92a3acb",
+      "title": "Target strengthens inventory management with digital twins - Supply Chain Dive",
+      "summary": "Target strengthens inventory management with digital twins &nbsp;&nbsp; Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVc5QUc1WWpfdDZUeG8wM1NCakRQUnpFVkNyMnBsQWJkUlE3TXBjMTZ1QzdoN01obC1adkJaNTJYQV9qOTU4WDlsV2trZTQzRFR0ejZ6ZVFfVnhObFh3RkgwUFlqQXJBVWpZdVhfQnJDblR5WFpINUZCRUhyR0ZzT3JkT3pfT2dwVFA1bldyVE5zalhhVEx4M3RjZEt6ODBnZ0wweEJB?oc=5",
+      "source": "Supply Chain Dive",
+      "company": "Supply Chain Dive",
+      "published": "2026-08-14T07:00:00+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Digital twins"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
       "id": "dfa1349648a53577b66d3f32e6b0af256919b34b",
       "title": "TraceLink Leads the Industry With the First Agentic Supply Chain Control Tower With Reasoning - Yahoo Finance",
       "summary": "TraceLink Leads the Industry With the First Agentic Supply Chain Control Tower With Reasoning &nbsp;&nbsp; Yahoo Finance",
@@ -1767,32 +1792,6 @@
       "technologies": [
         "Artificial intelligence",
         "Decision intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
-      "id": "08953c97d8445861835d5d391ef6b78a48d6f1ff",
-      "title": "AI data centers: Power and supply strategy - EY",
-      "summary": "AI data centers: Power and supply strategy &nbsp;&nbsp; EY",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM05IWDNiaDBDU1lzdDViUVRGMUM0SFdRR25TVmVvanByR0hESXhJcWVhMDFCbEJqVFpVRjBFbmhXeUlNN3dDTDZ1bm5GaGVCelY3QktZS0drcVQ5ZjV1T2MwVmkySnpxc3NlUmVkeUxGQ1Q2WDdhc1hYUGFIZElROWhLV1FJN2RVUlNfZDlGRQ?oc=5",
-      "source": "EY",
-      "company": "EY",
-      "published": "2026-07-07T15:42:46+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Artificial intelligence"
       ],
       "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
       "decision_opportunities": [
@@ -2031,32 +2030,6 @@
       ],
       "technologies": [
         "Supply chain technology"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
-      "id": "bbc0cff5ca727c71958f733393688dbf107aafec",
-      "title": "Clinical trial experts cite trust and regulatory uncertainty as AI barriers - Clinical Trials Arena",
-      "summary": "Clinical trial experts cite trust and regulatory uncertainty as AI barriers &nbsp;&nbsp; Clinical Trials Arena",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWJFcmo0NlR0WjRXOUdnNUxnaC13bTc4RWpwTnhsNHFycFFkbW54OXF6LThUSEE4MlBEbHJHRGYzQWVuRF9aVEVnek1ER3lJaGV2SHZyckkySFlncTlKQWhkdWVjZlB3dEdSRGcwYmw5R3JMMmMwMnJaZndCV0p3LUN0OTBkbXgwZ2prajM5RHNHUkZBa0tBTFVVUGl6dzBXNHBfcHI3UHRMM1BmcEhudzZjQWQ4SHVU?oc=5",
-      "source": "Clinical Trials Arena",
-      "company": "Clinical Trials Arena",
-      "published": "2026-05-28T07:00:00+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Artificial intelligence"
       ],
       "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
       "decision_opportunities": [

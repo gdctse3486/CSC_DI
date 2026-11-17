@@ -1,11 +1,170 @@
 {
   "meta": {
-    "last_updated": "2026-11-16T13:40:19.805989+00:00",
+    "last_updated": "2026-11-17T14:26:35.577373+00:00",
     "source_count": 10,
-    "article_count": 137,
+    "article_count": 141,
     "note": "Stories are sourced from Google News RSS search results. Automated tags and clinical mappings are indicative and should be reviewed before strategic use."
   },
   "articles": [
+    {
+      "id": "57400a77411093c909beb0702167483089349ce7",
+      "title": "Adobe adds agentic AI tools to GenStudio for content production & campaign workflows - Social Samosa",
+      "summary": "Adobe adds agentic AI tools to GenStudio for content production & campaign workflows &nbsp;&nbsp; Social Samosa",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTQ2eExrT3hYbzY3QUxOU0lyTUx2ZWRDcHhvenZIYndIZkR4dl9hMzhubFZpSWlHb1MxRC16WkZEQW52QUZKb3o4TnNuNjhUM0M5d2hvVlJtQmZGcVFoVnJkX1ZKcXZNbFN2TEVkVnpyTlFiSWJPRHotLXI3UC14YTV3LUF3bHNhY05yVG1kY0MwSXhMRFdPOTVPeEVRdC1OVExlTTN5VHlDSVRjZTdON094Tnp2Q21mdDUyMGhWb9IBvwFBVV95cUxOWTQ2eExrT3hYbzY3QUxOU0lyTUx2ZWRDcHhvenZIYndIZkR4dl9hMzhubFZpSWlHb1MxRC16WkZEQW52QUZKb3o4TnNuNjhUM0M5d2hvVlJtQmZGcVFoVnJkX1ZKcXZNbFN2TEVkVnpyTlFiSWJPRHotLXI3UC14YTV3LUF3bHNhY05yVG1kY0MwSXhMRFdPOTVPeEVRdC1OVExlTTN5VHlDSVRjZTdON094Tnp2Q21mdDUyMGhWbw?oc=5",
+      "source": "Social Samosa",
+      "company": "Social Samosa",
+      "published": "2026-11-17T13:22:54+00:00",
+      "value_streams": [
+        "MAKE"
+      ],
+      "technologies": [
+        "Agentic AI",
+        "Artificial intelligence"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: production scheduling, batch execution, packaging, labelling and quality release. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Manufacturing and release orchestration",
+        "Predictive batch and quality intelligence"
+      ],
+      "use_cases": [
+        "Manufacturing and release orchestration",
+        "Predictive batch and quality intelligence"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "523ddf94899ec046c1274ff542a79801b2533c74",
+      "title": "Enmovil Partners With Canada's Tangentia To Target Manufacturing And Auto Sectors - BW Auto World",
+      "summary": "Enmovil Partners With Canada's Tangentia To Target Manufacturing And Auto Sectors &nbsp;&nbsp; BW Auto World",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVGJYb1pJZ3FqS2pNLVhCbVhMaXNKOGFKdTZMSF9sQ0VQWG9JWU1oekh3NGFWTU1DdUkwRjd0d19ZemtmMlJaMHhvR0d4VEIwblRRekhuaDdQWE5Zc0RkaWZMX1BiYjU1Z091QW5YUHA5NEczaEZWNFBjXzZ3aGhLbjlOd3lpMUZQZmwxam0tMFJqVFdmZ1VkRndVaGI0TGRiZlBNM3NveDhYQXFIVnQ3Tzg0RU04d2xrYTUybg?oc=5",
+      "source": "BW Auto World",
+      "company": "BW Auto World",
+      "published": "2026-11-17T11:48:18+00:00",
+      "value_streams": [
+        "MAKE"
+      ],
+      "technologies": [
+        "Supply chain technology"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: production scheduling, batch execution, packaging, labelling and quality release. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Manufacturing and release orchestration",
+        "Predictive batch and quality intelligence"
+      ],
+      "use_cases": [
+        "Manufacturing and release orchestration",
+        "Predictive batch and quality intelligence"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "6321afa1098ccc41497e7e69c6d2cf0d931e0024",
+      "title": "Agentic AI ads keep the old rules, but labels and dashboards alone won't prove compliance - Resultsense",
+      "summary": "Agentic AI ads keep the old rules, but labels and dashboards alone won't prove compliance &nbsp;&nbsp; Resultsense",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUGxpWl9LNC1FX3d2R3NwMTNzMlI2cjVjNGM4VENYenJYQldyLTcxM2J1Q2VWNkdWay1UQVBLYnZ6UmV4UTU4R1RURkQwWldVYW94TEtjQmRhaUVsdF9ZOUhLcGZtZEJKN0NGdTBLR1R4VlhhMDRtdUFoanM3YmdQYVpuRzJCamZhdzFIRUNyakVEc0ljUjkzNw?oc=5",
+      "source": "Resultsense",
+      "company": "Resultsense",
+      "published": "2026-11-17T10:24:10+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Agentic AI",
+        "Artificial intelligence"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "c88ca5264d097ecfa2655a5e19bb4fae238684f1",
+      "title": "Open-Source vs. Commercial Agentic AI Security Platform - Security Boulevard",
+      "summary": "Open-Source vs. Commercial Agentic AI Security Platform &nbsp;&nbsp; Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUotQzlBc3dOVWQtNjhBU2JnaDlqZldIaEQxZDQ1UkVQeDZobTR1WHJXV3VWZkZfeWh0YjdZTHo2aHczcGRRZ0dHUkcxTTZJQTA3VzlVSDRuTUJXSjg1Zy1NMUJ0a09LRVVLMzcwRFpnMkdKbVBlRnZfQUF3MkNBdWdwNVpCM3ZJNE1LeGVYdGlKZ1diMFQ3UQ?oc=5",
+      "source": "Security Boulevard",
+      "company": "Security Boulevard",
+      "published": "2026-11-16T19:16:26+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Agentic AI",
+        "Artificial intelligence"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "73bbd348d7b771ae5797dd639e862b7137a1d11f",
+      "title": "From the Bank of NVIDIA to AI in Your Pocket: Who Will Control Supply Chain Intelligence? - Logistics Viewpoints",
+      "summary": "From the Bank of NVIDIA to AI in Your Pocket: Who Will Control Supply Chain Intelligence? &nbsp;&nbsp; Logistics Viewpoints",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWtKU1R3WUloMy1ETGZLXzVnLVNXajZrd0xYR2RtQmxMZGZDNmdhSnRpNkV2UnoxaTF1ODA2cEZvZ25maDJ0c2RTM2xlVEZ1V1ZWNlI5ZmNpTjVyRVZ3dXhtMlhSNnF6bks5SHJMeEhVX2k5V1l3eG5hTU5xRnI4b0lJT09GQ1kwOEllSEZUdnVuUU95NTA0XzRFa0J4MkNnRlYtaV9nQjJWeXdXLVp2X1ZTdnVzLVJZZUc0V2dpcUdMdFNGTXhZVTI0WQ?oc=5",
+      "source": "Logistics Viewpoints",
+      "company": "NVIDIA",
+      "published": "2026-11-16T13:54:45+00:00",
+      "value_streams": [
+        "DELIVER"
+      ],
+      "technologies": [
+        "Artificial intelligence"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: depot inventory, shipment risk and clinical site replenishment. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Predictive site resupply",
+        "Shipment and cold-chain risk"
+      ],
+      "use_cases": [
+        "Predictive site resupply",
+        "Shipment and cold-chain risk"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "dbd3e3c84e401678d14047ee9aced3fd29da2dfb",
+      "title": "Partners must help customers ‘rethink’ supply-chain processes for agentic AI, says Kinaxis’ Andrew Bell - CRN Asia",
+      "summary": "Partners must help customers ‘rethink’ supply-chain processes for agentic AI, says Kinaxis’ Andrew Bell &nbsp;&nbsp; CRN Asia",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUXhSMGU5VEtXS2pBeER3cDNKaDh6SThjUVlVQk5uZ3BhaVlqVHMzdlNDcFNIV1hZUFdaVVh4cFhOcEFna0NSRWMzVHBISHRGVGtTMkRuaEthZ29UWDRzWnlfNDRNOTJBUGFsdFEzWjRxTzRhSXZ5NGoxUkx3X1F5dHY0cDc3M2NaUjlGa0NzbVhHT0F1OVVvWFdOWDVXdTF5bGtUUzA1Y3RBVWF4b1FIOWtQSy0xdGJXNEZrOC1MUGZQbGI5RmRGTng4cWVQSGxUUGYyS0Zn?oc=5",
+      "source": "CRN Asia",
+      "company": "Kinaxis",
+      "published": "2026-11-16T11:32:39+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Agentic AI"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
     {
       "id": "4b4fc10354abab348eb21c0b16a48395d331e07a",
       "title": "Celonis White Paper: How Physical AI Is Changing Operations - Supply Chain Digital Magazine",
@@ -33,18 +192,18 @@
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
     },
     {
-      "id": "dbd3e3c84e401678d14047ee9aced3fd29da2dfb",
-      "title": "Partners must help customers ‘rethink’ supply-chain processes for agentic AI, says Kinaxis’ Andrew Bell - CRN Asia",
-      "summary": "Partners must help customers ‘rethink’ supply-chain processes for agentic AI, says Kinaxis’ Andrew Bell &nbsp;&nbsp; CRN Asia",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUXhSMGU5VEtXS2pBeER3cDNKaDh6SThjUVlVQk5uZ3BhaVlqVHMzdlNDcFNIV1hZUFdaVVh4cFhOcEFna0NSRWMzVHBISHRGVGtTMkRuaEthZ29UWDRzWnlfNDRNOTJBUGFsdFEzWjRxTzRhSXZ5NGoxUkx3X1F5dHY0cDc3M2NaUjlGa0NzbVhHT0F1OVVvWFdOWDVXdTF5bGtUUzA1Y3RBVWF4b1FIOWtQSy0xdGJXNEZrOC1MUGZQbGI5RmRGTng4cWVQSGxUUGYyS0Zn?oc=5",
-      "source": "CRN Asia",
-      "company": "Kinaxis",
-      "published": "2026-11-16T08:42:15+00:00",
+      "id": "acc51b58bf8093bce1ce4061f5afe8de87c89c85",
+      "title": "The AI Supply Chain Management Skills 2027 Planners Need - AICERTs",
+      "summary": "The AI Supply Chain Management Skills 2027 Planners Need &nbsp;&nbsp; AICERTs",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakZDY1kxMkdQZHFSR0JGOG5DUkNpUkw2NzBQSlEtNVcyZk5yWDFrdXVjZE1iTFl1LXVOV0haVXgyVV9FcmhyaU5HZzRBY0JzS1JySjFHcWJJMHI5bGVhSTI2aDZUVzVmQXlFSGpGRi05ZDhxSTFWNEtpVEdlZEt3UTBGRGNPQ2JoOGxiQkhnVQ?oc=5",
+      "source": "AICERTs",
+      "company": "AICERTs",
+      "published": "2026-11-16T08:00:00+00:00",
       "value_streams": [
         "PLAN"
       ],
       "technologies": [
-        "Agentic AI"
+        "Artificial intelligence"
       ],
       "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
       "decision_opportunities": [
@@ -71,32 +230,6 @@
       ],
       "technologies": [
         "Agentic AI",
-        "Artificial intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
-      "id": "acc51b58bf8093bce1ce4061f5afe8de87c89c85",
-      "title": "The AI Supply Chain Management Skills 2027 Planners Need - AICERTs",
-      "summary": "The AI Supply Chain Management Skills 2027 Planners Need &nbsp;&nbsp; AICERTs",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakZDY1kxMkdQZHFSR0JGOG5DUkNpUkw2NzBQSlEtNVcyZk5yWDFrdXVjZE1iTFl1LXVOV0haVXgyVV9FcmhyaU5HZzRBY0JzS1JySjFHcWJJMHI5bGVhSTI2aDZUVzVmQXlFSGpGRi05ZDhxSTFWNEtpVEdlZEt3UTBGRGNPQ2JoOGxiQkhnVQ?oc=5",
-      "source": "AICERTs",
-      "company": "AICERTs",
-      "published": "2026-11-14T17:46:53+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
         "Artificial intelligence"
       ],
       "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
@@ -139,33 +272,6 @@
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
     },
     {
-      "id": "6eee567bb4b5691e107d0ffa6c5ae0ff1f40ded9",
-      "title": "Agentic AI Adoption Surges: 77% Manufacturers Boost AI Investment - Supply & Demand Chain Executive",
-      "summary": "Agentic AI Adoption Surges: 77% Manufacturers Boost AI Investment &nbsp;&nbsp; Supply & Demand Chain Executive",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM3BFZndjMVFJWHpzZFkxeTdFaVhIV3lIODFESWgyTEU2bjZRdWJmc2xvQlphamlOdF8yWDJIcllLcy1fajBPZFc4RVMyQm01WTJyT1RSaVpKLXo4SENxRzhiUm0waDRsS0VtMHg5M1Vad1pDWlNYVkFVc1hDc0tJNkJkTk1veUoyWWdEOFQ0OVhPT0R2UFViMFhiaW1YRXYySFpiSVNseVA4bXBJaWxON3ZTQWV6OVc5MUFqV3FnNk9rN0taYnRUVjh4NXhQcXU1Nkpsb1J4Qm5XRlBRbEl3?oc=5",
-      "source": "Supply & Demand Chain Executive",
-      "company": "Supply & Demand Chain Executive",
-      "published": "2026-11-13T02:42:35+00:00",
-      "value_streams": [
-        "MAKE"
-      ],
-      "technologies": [
-        "Agentic AI",
-        "Artificial intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: production scheduling, batch execution, packaging, labelling and quality release. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Manufacturing and release orchestration",
-        "Predictive batch and quality intelligence"
-      ],
-      "use_cases": [
-        "Manufacturing and release orchestration",
-        "Predictive batch and quality intelligence"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
       "id": "66a994c1df5221478e64aab4d9a7fbede3a7b874",
       "title": "Is It Time to Invest in Supply Chain Decision Intelligence Technology? - Supply Chain Digest",
       "summary": "Is It Time to Invest in Supply Chain Decision Intelligence Technology? &nbsp;&nbsp; Supply Chain Digest",
@@ -178,33 +284,6 @@
       ],
       "technologies": [
         "Decision intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
-      "id": "16d92473e50be2c2a48fa3811626080e3c033901",
-      "title": "Adobe Max 2026 - bringing agentic AI to the content supply chain - diginomica",
-      "summary": "Adobe Max 2026 - bringing agentic AI to the content supply chain &nbsp;&nbsp; diginomica",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZklLQ3ZEWmhJM3FyQXhDRFZZbGJ0TF95d0E1bmtSSHlIck9hUTJ6ZkxZVkwxZFdKR3A4VHJ1bXZjODZ3VUZlMWR6RHFSaWMySWFJbkpiMHlzYmtDMHZoR1RpSUcyNVRfci0xZV9lSXVtQzFNSy05dTNkZ3FzR3BoQzZtTHY?oc=5",
-      "source": "diginomica",
-      "company": "diginomica",
-      "published": "2026-11-11T08:35:02+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Agentic AI",
-        "Artificial intelligence"
       ],
       "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
       "decision_opportunities": [
@@ -240,33 +319,6 @@
       "use_cases": [
         "Predictive site resupply",
         "Shipment and cold-chain risk"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
-      "id": "a2c4de05c4369782671773126bba822b1317dddb",
-      "title": "Adobe Brings Agentic AI to the Content Supply Chain with CX Enterprise Coworker - Investing News Network",
-      "summary": "Adobe Brings Agentic AI to the Content Supply Chain with CX Enterprise Coworker &nbsp;&nbsp; Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHpBSllMb3Z1SnBMaTdjNmxMSTVibXB2LTF0bkJxS0s5YjlTVGVfVVBBZ1E2bXpKZHowMVRGMngyMGEyMXpoSmVXcFU3NkYxVG9UWm9iTmpIbjN4R0Nqek9QNTJzUUY1RHNMVnA0R0JXc0pHelYyYmZKTkozZWlsOU1VOVdCS1owU21taXQ0ekpJV2lfZy1RYXU4RDRpZF9UbWFVckREWE1TQQ?oc=5",
-      "source": "Investing News Network",
-      "company": "Investing News Network",
-      "published": "2026-11-10T15:15:43+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Agentic AI",
-        "Artificial intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
       ],
       "relevance": "Emerging",
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
@@ -653,6 +705,33 @@
       ],
       "technologies": [
         "Predictive analytics"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: depot inventory, shipment risk and clinical site replenishment. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Predictive site resupply",
+        "Shipment and cold-chain risk"
+      ],
+      "use_cases": [
+        "Predictive site resupply",
+        "Shipment and cold-chain risk"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "0866d37870b9d7d9003b5168631d3120ee392514",
+      "title": "Beyond Visibility: How AI Is Transforming Supply Chain Decision-Making - Maersk",
+      "summary": "Beyond Visibility: How AI Is Transforming Supply Chain Decision-Making &nbsp;&nbsp; Maersk",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHlFblQ1Zm1xZ0xtdlZlLXRwWW1TWkpWRlJlRGsxdTZodGJCMlpyN0JWMFNZMUQ4S2pZODlmZnZRZ1NOVktuUDJEOHhacUlBMHBfNFFOU01wMVYycHNMWERLbWkya2xNQUlIVnlHUnJBYjY0elUwZUFhVG9Ud2x0amJUeFJ4VzdtQkVZWjM0anBSMHNVcmk2SnA3alZGbUwycGpnTThBbHhtS2t3Qnc?oc=5",
+      "source": "Maersk",
+      "company": "Maersk",
+      "published": "2026-10-16T07:00:00+00:00",
+      "value_streams": [
+        "DELIVER"
+      ],
+      "technologies": [
+        "Artificial intelligence",
+        "Decision intelligence"
       ],
       "clinical_application": "Potential clinical supply chain relevance: depot inventory, shipment risk and clinical site replenishment. Assess whether the reported capability could improve continuity of supply to clinical studies.",
       "decision_opportunities": [
@@ -1381,32 +1460,6 @@
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
     },
     {
-      "id": "687fc1464602ad8fccc3380ffe1924a34bffa2b7",
-      "title": "From Planning Cycles to Always-On Intelligence: How AI-augmented supply chains are transforming automotive resilience, profitability, and working capital - Capgemini",
-      "summary": "From Planning Cycles to Always-On Intelligence: How AI-augmented supply chains are transforming automotive resilience, profitability, and working capital &nbsp;&nbsp; Capgemini",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxObF9EZV90ODZESVZuVEtHU1IyQTNQQThyZVQwME0tVl9oSFdpLUdBUVJGak5KTzVvWDhGWUFPWVBZcjVzVmVoYjJidXNEU2dhLWJXakE2V0N4blFDcmZSM1REMGhfZFdrUUNPd2RxUFgydE9wY3h1cjlsV1BiNjZPc0pOYnpmQmhFaGw4aU0tWTNtZ0ZyY2FySFBzUHV2TXpSdU9TcHZTakdsYk9rN1U1MjU1QkpzTTcyc0lNdmJ6eElkNk1UYzBtQ3hMYTFzVVZ1bmZUWnAxeVNINUpvY1psSzlDWUdLM1VtZmVseWZSZW5FOG92d2dXTnlxdmZNZldmTVZIeE02TUY2NnNSNWxRdnIzRXoyNGlRSVVOWk1lSGM1TmVFTUF5RWpxZ2tSMWs?oc=5",
-      "source": "Capgemini",
-      "company": "Motive",
-      "published": "2026-09-10T07:00:00+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Supply chain technology"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
       "id": "74f9cc4b2adcf68d294988db12b7564377d16c2f",
       "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry - NVIDIA Developer",
       "summary": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry &nbsp;&nbsp; NVIDIA Developer",
@@ -1591,32 +1644,6 @@
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
     },
     {
-      "id": "d2855e02d23e8eda5ee9fe5a856a61d9c92a3acb",
-      "title": "Target strengthens inventory management with digital twins - Supply Chain Dive",
-      "summary": "Target strengthens inventory management with digital twins &nbsp;&nbsp; Supply Chain Dive",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVc5QUc1WWpfdDZUeG8wM1NCakRQUnpFVkNyMnBsQWJkUlE3TXBjMTZ1QzdoN01obC1adkJaNTJYQV9qOTU4WDlsV2trZTQzRFR0ejZ6ZVFfVnhObFh3RkgwUFlqQXJBVWpZdVhfQnJDblR5WFpINUZCRUhyR0ZzT3JkT3pfT2dwVFA1bldyVE5zalhhVEx4M3RjZEt6ODBnZ0wweEJB?oc=5",
-      "source": "Supply Chain Dive",
-      "company": "Supply Chain Dive",
-      "published": "2026-08-14T07:00:00+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Digital twins"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
       "id": "dfa1349648a53577b66d3f32e6b0af256919b34b",
       "title": "TraceLink Leads the Industry With the First Agentic Supply Chain Control Tower With Reasoning - Yahoo Finance",
       "summary": "TraceLink Leads the Industry With the First Agentic Supply Chain Control Tower With Reasoning &nbsp;&nbsp; Yahoo Finance",
@@ -1703,32 +1730,6 @@
       "source": "Computer Weekly",
       "company": "Computer Weekly",
       "published": "2026-07-20T07:00:00+00:00",
-      "value_streams": [
-        "PLAN"
-      ],
-      "technologies": [
-        "Artificial intelligence"
-      ],
-      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
-      "decision_opportunities": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "use_cases": [
-        "Study demand sensing",
-        "Inventory and expiry optimisation"
-      ],
-      "relevance": "Emerging",
-      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
-    },
-    {
-      "id": "58c67a52a49ea9969a206564402307e1a6ca4e5e",
-      "title": "How AI is reshaping supply chains - Financial Times",
-      "summary": "How AI is reshaping supply chains &nbsp;&nbsp; Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDaW5iQmJWMUlVcVFINkh5UTJ2b2hBXzN4N0l4cXBEcm5xZWJEOGlmR1RDaVhFODJ5aGNCdWV4SmxjbWpIYlpYR0x4Uk5tM2VMLWZaX1lOSXU2U2g2UkRURDM4QmI4NHkxQ1lfWDNzdE8?oc=5",
-      "source": "Financial Times",
-      "company": "Financial Times",
-      "published": "2026-07-15T07:00:00+00:00",
       "value_streams": [
         "PLAN"
       ],
@@ -1840,6 +1841,32 @@
       "technologies": [
         "Artificial intelligence",
         "Decision intelligence"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "08953c97d8445861835d5d391ef6b78a48d6f1ff",
+      "title": "AI data centers: Power and supply strategy - EY",
+      "summary": "AI data centers: Power and supply strategy &nbsp;&nbsp; EY",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM05IWDNiaDBDU1lzdDViUVRGMUM0SFdRR25TVmVvanByR0hESXhJcWVhMDFCbEJqVFpVRjBFbmhXeUlNN3dDTDZ1bm5GaGVCelY3QktZS0drcVQ5ZjV1T2MwVmkySnpxc3NlUmVkeUxGQ1Q2WDdhc1hYUGFIZElROWhLV1FJN2RVUlNfZDlGRQ?oc=5",
+      "source": "EY",
+      "company": "EY",
+      "published": "2026-07-07T15:42:46+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Artificial intelligence"
       ],
       "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
       "decision_opportunities": [
@@ -2334,6 +2361,32 @@
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
     },
     {
+      "id": "4f79c62f2c2b291a6f805dc715df50bf9d0b034e",
+      "title": "SAP introduces Autonomous Supply Chain Management - Computer Weekly",
+      "summary": "SAP introduces Autonomous Supply Chain Management &nbsp;&nbsp; Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkpTWXBXS2JoNGFwRzdfMWFrcTVjOVJJcVhaa2FSRVFHWndoUDI5MTljOW5QSmFCY1lvOGxkeHoxYnBNcjhfZTBPU3BPazM5NkNLZ0hsVEFtTzhCTFRyeEZ0SjlYVkFzRldUcGlodmZzM05tb25mZzJSM256b1NWNHk4RGpTanJuWVlnSFJiYmpuTGV5ME5SbjJCMWxOb2pMcXR0WFk4aHZsUQ?oc=5",
+      "source": "Computer Weekly",
+      "company": "SAP",
+      "published": "2026-05-14T07:00:00+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Automation and orchestration"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
       "id": "72cd1ae54165523794d63b5eecf46ff98e975edb",
       "title": "Digital Twin Technology and Predictive Analytics in Manufacturing Supply Chains: Preventing Data-Driven Supply Chain Disputes - Foley & Lardner LLP",
       "summary": "Digital Twin Technology and Predictive Analytics in Manufacturing Supply Chains: Preventing Data-Driven Supply Chain Disputes &nbsp;&nbsp; Foley & Lardner LLP",
@@ -2410,6 +2463,32 @@
         "Shipment and cold-chain risk"
       ],
       "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "0525f8a1de2e86a8e4702f9518fea0359433b705",
+      "title": "The Silent Failure Layer in Pharma Cold Chains: Why ‘Real-Time Visibility’ Isn’t Reality - Pharmaceutical Commerce",
+      "summary": "The Silent Failure Layer in Pharma Cold Chains: Why ‘Real-Time Visibility’ Isn’t Reality &nbsp;&nbsp; Pharmaceutical Commerce",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSUsxdUxPVnhiQWd3Z3FJQ3c4eFc2MEl6emczNGVwUEZlQ0didm5fMk90Z25sWllHdTY0cEFobkZRRlhkRGJFeTZjSDdzcGFBaFdhbTdJM1ZhamY3VlUyTHRBR2ZvSmFGVnh6cEJWb0Y3aWhwdTlVeHJ6SzhrV1RCVGpObjg2QVNrc0dzUjZYX3RHUWJqYldQRG5VX0I4a1REYVVkZjlycVlLaVgtbVpOWWtuNWtDYktBenZUVXludzBtMGN0ei0xdw?oc=5",
+      "source": "Pharmaceutical Commerce",
+      "company": "Pharmaceutical Commerce",
+      "published": "2026-05-12T07:00:00+00:00",
+      "value_streams": [
+        "DELIVER"
+      ],
+      "technologies": [
+        "Supply chain technology"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: depot inventory, shipment risk and clinical site replenishment. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Predictive site resupply",
+        "Shipment and cold-chain risk"
+      ],
+      "use_cases": [
+        "Predictive site resupply",
+        "Shipment and cold-chain risk"
+      ],
+      "relevance": "Medium",
       "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
     },
     {
@@ -3063,6 +3142,32 @@
       "technologies": [
         "Artificial intelligence",
         "Control towers"
+      ],
+      "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
+      "decision_opportunities": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "use_cases": [
+        "Study demand sensing",
+        "Inventory and expiry optimisation"
+      ],
+      "relevance": "Emerging",
+      "evidence_status": "External news or announcement. Confirm whether the capability is a concept, pilot or operational deployment from the original source before using it as evidence of proven outcomes."
+    },
+    {
+      "id": "5caefec1dcc965f91d6a7175b3c50a455a951562",
+      "title": "The complexity of the pharma supply chain - Supply Chain Management Review",
+      "summary": "The complexity of the pharma supply chain &nbsp;&nbsp; Supply Chain Management Review",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KczBJb2lpNWFmcE5sUE1rcGF3NWFMWHlBSjVudFVJRTdVMXFJSDNGMmxuaDRfdUs0QkxFOFltWjlkcF9iT3pMMkxscGJyZkVBSlp0Mk5XQmpzWGFFMDlDeFNidFNmajRJYkdUN1pRMm8zQ0hhbnBPOC13?oc=5",
+      "source": "Supply Chain Management Review",
+      "company": "Supply Chain Management Review",
+      "published": "2026-03-06T08:00:00+00:00",
+      "value_streams": [
+        "PLAN"
+      ],
+      "technologies": [
+        "Supply chain technology"
       ],
       "clinical_application": "Potential clinical supply chain relevance: study demand, inventory positioning and supply scenario planning. Assess whether the reported capability could improve continuity of supply to clinical studies.",
       "decision_opportunities": [
